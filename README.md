@@ -1,6 +1,6 @@
 # codsoft-internship
 
-# this code is for machine learning internship at Codsoft.
+### Repo is for machine learning internship at Codsoft.
 
 1. Task 1 movie John classification we created machine learning model that can predict the genre of a movie based on the plot summary or texture information
 
