@@ -2,7 +2,7 @@
 
 ### Repo is for machine learning internship at Codsoft.
 
-1. Task 1 movie John classification we created machine learning model that can predict the genre of a movie based on the plot summary or texture information
+1. Task 1 movie genre classification we created machine learning model that can predict the genre of a movie based on the plot summary or texture information
 
 2. We developed model to product customer care for a subscription based service or business we used historical customer data from kaggle dataset like uses behaviour and customer demographics and tried algorithms like logistic regression,random forest or gradient boost to predict churn
 
